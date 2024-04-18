@@ -1,0 +1,33 @@
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\bin\Debug\ais_5_0.exe
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\bin\Debug\ais_5_0.pdb
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\bin\Debug\Model.dll
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\bin\Debug\Presenter.dll
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\bin\Debug\ViewWinForm.exe
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\bin\Debug\Model.pdb
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\bin\Debug\Presenter.pdb
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\bin\Debug\ViewWinForm.pdb
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\bin\Debug\ViewWinForm.exe.config
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\obj\Debug\Program.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\obj\Debug\ais_5_0.Properties.Resources.resources
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\obj\Debug\Program.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\obj\Debug\Program.csproj.CopyComplete
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\obj\Debug\ais_5_0.exe
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\obj\Debug\ais_5_0.pdb
+D:\2 курс\ОП\ais_5_0\ais_5_0\bin\Debug\ais_5_0.exe
+D:\2 курс\ОП\ais_5_0\ais_5_0\bin\Debug\ais_5_0.pdb
+D:\2 курс\ОП\ais_5_0\ais_5_0\bin\Debug\Model.dll
+D:\2 курс\ОП\ais_5_0\ais_5_0\bin\Debug\Presenter.dll
+D:\2 курс\ОП\ais_5_0\ais_5_0\bin\Debug\ViewWinForm.exe
+D:\2 курс\ОП\ais_5_0\ais_5_0\bin\Debug\Model.pdb
+D:\2 курс\ОП\ais_5_0\ais_5_0\bin\Debug\Presenter.pdb
+D:\2 курс\ОП\ais_5_0\ais_5_0\bin\Debug\ViewWinForm.pdb
+D:\2 курс\ОП\ais_5_0\ais_5_0\bin\Debug\ViewWinForm.exe.config
+D:\2 курс\ОП\ais_5_0\ais_5_0\obj\Debug\Program.csproj.AssemblyReference.cache
+D:\2 курс\ОП\ais_5_0\ais_5_0\obj\Debug\ais_5_0.Properties.Resources.resources
+D:\2 курс\ОП\ais_5_0\ais_5_0\obj\Debug\Program.csproj.GenerateResource.cache
+D:\2 курс\ОП\ais_5_0\ais_5_0\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\2 курс\ОП\ais_5_0\ais_5_0\obj\Debug\Program.csproj.CopyComplete
+D:\2 курс\ОП\ais_5_0\ais_5_0\obj\Debug\ais_5_0.exe
+D:\2 курс\ОП\ais_5_0\ais_5_0\obj\Debug\ais_5_0.pdb

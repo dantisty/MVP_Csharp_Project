@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\AIS\ais_5_0\Model\bin\Debug\Model.dll
+C:\Users\user\source\repos\AIS\ais_5_0\Model\bin\Debug\Model.pdb
+C:\Users\user\source\repos\AIS\ais_5_0\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AIS\ais_5_0\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AIS\ais_5_0\Model\obj\Debug\Model.dll
+C:\Users\user\source\repos\AIS\ais_5_0\Model\obj\Debug\Model.pdb
+D:\2 курс\ОП\ais_5_0\Model\bin\Debug\Model.dll
+D:\2 курс\ОП\ais_5_0\Model\bin\Debug\Model.pdb
+D:\2 курс\ОП\ais_5_0\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\2 курс\ОП\ais_5_0\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\2 курс\ОП\ais_5_0\Model\obj\Debug\Model.dll
+D:\2 курс\ОП\ais_5_0\Model\obj\Debug\Model.pdb

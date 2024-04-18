@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\bin\Debug\ais_5_0.exe.config
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\bin\Debug\ais_5_0.exe
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\bin\Debug\ais_5_0.pdb
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\obj\Debug\ViewWF.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\obj\Debug\ViewWF.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\obj\Debug\ais_5_0.MainForm.resources
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\obj\Debug\ais_5_0.Properties.Resources.resources
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\obj\Debug\ViewWF.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\obj\Debug\ViewWF.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\obj\Debug\ais_5_0.exe
+C:\Users\user\source\repos\AIS\ais_5_0\ais_5_0\obj\Debug\ais_5_0.pdb

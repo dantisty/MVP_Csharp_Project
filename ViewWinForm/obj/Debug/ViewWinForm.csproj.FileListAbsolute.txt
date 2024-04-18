@@ -1,0 +1,23 @@
+C:\Users\user\source\repos\AIS\ais_5_0\ViewWinForm\bin\Debug\ViewWinForm.exe.config
+C:\Users\user\source\repos\AIS\ais_5_0\ViewWinForm\bin\Debug\ViewWinForm.exe
+C:\Users\user\source\repos\AIS\ais_5_0\ViewWinForm\bin\Debug\ViewWinForm.pdb
+C:\Users\user\source\repos\AIS\ais_5_0\ViewWinForm\obj\Debug\ViewWinForm.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AIS\ais_5_0\ViewWinForm\obj\Debug\ViewWinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\AIS\ais_5_0\ViewWinForm\obj\Debug\ViewWinForm.MainForm.resources
+C:\Users\user\source\repos\AIS\ais_5_0\ViewWinForm\obj\Debug\ViewWinForm.Properties.Resources.resources
+C:\Users\user\source\repos\AIS\ais_5_0\ViewWinForm\obj\Debug\ViewWinForm.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AIS\ais_5_0\ViewWinForm\obj\Debug\ViewWinForm.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AIS\ais_5_0\ViewWinForm\obj\Debug\ViewWinForm.exe
+C:\Users\user\source\repos\AIS\ais_5_0\ViewWinForm\obj\Debug\ViewWinForm.pdb
+C:\Users\user\source\repos\AIS\ais_5_0\ViewWinForm\obj\Debug\ViewWinForm.AddForm.resources
+D:\2 курс\ОП\ais_5_0\ViewWinForm\bin\Debug\ViewWinForm.exe.config
+D:\2 курс\ОП\ais_5_0\ViewWinForm\bin\Debug\ViewWinForm.exe
+D:\2 курс\ОП\ais_5_0\ViewWinForm\bin\Debug\ViewWinForm.pdb
+D:\2 курс\ОП\ais_5_0\ViewWinForm\obj\Debug\ViewWinForm.csproj.AssemblyReference.cache
+D:\2 курс\ОП\ais_5_0\ViewWinForm\obj\Debug\ViewWinForm.AddForm.resources
+D:\2 курс\ОП\ais_5_0\ViewWinForm\obj\Debug\ViewWinForm.MainForm.resources
+D:\2 курс\ОП\ais_5_0\ViewWinForm\obj\Debug\ViewWinForm.Properties.Resources.resources
+D:\2 курс\ОП\ais_5_0\ViewWinForm\obj\Debug\ViewWinForm.csproj.GenerateResource.cache
+D:\2 курс\ОП\ais_5_0\ViewWinForm\obj\Debug\ViewWinForm.csproj.CoreCompileInputs.cache
+D:\2 курс\ОП\ais_5_0\ViewWinForm\obj\Debug\ViewWinForm.exe
+D:\2 курс\ОП\ais_5_0\ViewWinForm\obj\Debug\ViewWinForm.pdb

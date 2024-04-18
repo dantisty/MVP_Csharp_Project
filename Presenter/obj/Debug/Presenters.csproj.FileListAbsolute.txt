@@ -1,0 +1,24 @@
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\bin\Debug\Presenter.dll
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\bin\Debug\Presenter.pdb
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\bin\Debug\Model.dll
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\bin\Debug\ViewWinForm.exe
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\bin\Debug\Model.pdb
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\bin\Debug\ViewWinForm.pdb
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\bin\Debug\ViewWinForm.exe.config
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\obj\Debug\Presenters.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\obj\Debug\Presenters.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\obj\Debug\Presenters.csproj.CopyComplete
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\obj\Debug\Presenter.dll
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\obj\Debug\Presenter.pdb
+D:\2 курс\ОП\ais_5_0\Presenter\bin\Debug\Presenter.dll
+D:\2 курс\ОП\ais_5_0\Presenter\bin\Debug\Presenter.pdb
+D:\2 курс\ОП\ais_5_0\Presenter\bin\Debug\Model.dll
+D:\2 курс\ОП\ais_5_0\Presenter\bin\Debug\ViewWinForm.exe
+D:\2 курс\ОП\ais_5_0\Presenter\bin\Debug\Model.pdb
+D:\2 курс\ОП\ais_5_0\Presenter\bin\Debug\ViewWinForm.pdb
+D:\2 курс\ОП\ais_5_0\Presenter\bin\Debug\ViewWinForm.exe.config
+D:\2 курс\ОП\ais_5_0\Presenter\obj\Debug\Presenters.csproj.AssemblyReference.cache
+D:\2 курс\ОП\ais_5_0\Presenter\obj\Debug\Presenters.csproj.CoreCompileInputs.cache
+D:\2 курс\ОП\ais_5_0\Presenter\obj\Debug\Presenters.csproj.CopyComplete
+D:\2 курс\ОП\ais_5_0\Presenter\obj\Debug\Presenter.dll
+D:\2 курс\ОП\ais_5_0\Presenter\obj\Debug\Presenter.pdb
